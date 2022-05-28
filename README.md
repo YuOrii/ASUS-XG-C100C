@@ -5,10 +5,10 @@ Registry Entry to Configurations: Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentCont
 
 Link speed key dictionary: 
 
-59: Auto negotiation
-32: 100M
-16: 1G
-8: 2.5G
-2: 5G
-1: 10G
+59: Auto negotiation\n
+32: 100M\n
+16: 1G\n
+8: 2.5G\n
+2: 5G\n
+1: 10G\n
 
